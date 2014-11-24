@@ -1,0 +1,3 @@
+[submodule "screeps-typescript-definition"]
+	path = screeps-typescript-definition
+	url = https://github.com/Semigradsky/screeps-typescript-definition.git
